@@ -1,0 +1,188 @@
+[
+    {
+      "categoria": "Comidas",
+      "items": [
+        {
+          "nombre": "Pizza de Muzarella",
+          "precio": 7000,
+          "imagen": "img/pizza-muzzarella.jpg" 
+        },
+        {
+            "nombre": "Pizza de Jamón",
+            "precio": 7000,
+            "imagen": "img/pizza-jamon.jpg" 
+          },    
+        {
+          "nombre": "Hamburguesa",
+          "precio": 8000,
+          "imagen": "img/hamburguesa.jpg"
+        },
+        {
+          "nombre": "Lomo",
+          "precio": 10000,
+          "imagen": "img/lomo.jpg"
+        },
+        {
+          "nombre": "Papas Fritas Grandes",
+          "precio": 3000,
+          "imagen": "img/papas-fritas-grandes.jpg"
+        },
+        {
+          "nombre": "Papas Fritas Chicas",
+          "precio": 2000,
+          "imagen": "img/papas-fritas-chicas.jpg"
+        },
+        {
+          "nombre": "Empanada de Carne",
+          "precio": 1000,
+          "imagen": "img/empanada-carne.jpg"
+        },
+        {
+          "nombre": "Empanada de Pollo",
+          "precio": 1000,
+          "imagen": "img/empanada-pollo.jpg"
+        },
+        {
+          "nombre": "Milanesa Completa",
+          "precio": 9000,
+          "imagen": "img/milanesa.jpg"
+        },
+        {
+            "nombre": "Ravioles al Pesto",
+            "precio": 10000,
+            "imagen": "img/ravioles.jpg"
+        },
+        {
+            "nombre": "Tallarines con Salsa Filetto",
+            "precio": 9500,
+            "imagen": "img/tallarines.jpg"
+        },        
+        {
+          "nombre": "Ensalada César",
+          "precio": 6000,
+          "imagen": "img/ensalada-cesar.jpg"
+        },
+        {
+          "nombre": "Sandwich de Jamón y Queso",
+          "precio": 3500,
+          "imagen": "img/sandwich-jamon-queso.jpg"
+        }
+      ]
+    },
+    {
+      "categoria": "Bebidas",
+      "items": [
+        {
+          "nombre": "Gaseosa Coca Cola",
+          "precio": 1500,
+          "imagen": "img/gaseosa-cocacola.jpg"
+        },
+        {
+            "nombre": "Gaseosa Sprite",
+            "precio": 1500,
+            "imagen": "img/gaseosa-sprite.jpg"
+        },
+        {
+            "nombre": "Gaseosa Fanta",
+            "precio": 1500,
+            "imagen": "img/gaseosa-fanta.jpg"
+        },  
+        {
+          "nombre": "Agua con Gas",
+          "precio": 1000,
+          "imagen": "img/agua-con-gas.jpg"
+        },
+        {
+          "nombre": "Agua sin Gas",
+          "precio": 1000,
+          "imagen": "img/agua-sin-gas.jpg"
+        },
+        {
+          "nombre": "Cerveza",
+          "precio": 2000,
+          "imagen": "img/cerveza.jpg"
+        },
+        {
+            "nombre": "Vino Blanco",
+            "precio": 5000,
+            "imagen": "img/vino-blanco.jpg"
+        },
+        {
+            "nombre": "Vino Tinto",
+            "precio": 5000,
+            "imagen": "img/vino-tinto.jpg"
+        },
+        {
+          "nombre": "Smoothie de Frutas",
+          "precio": 3500,
+          "imagen": "img/smoothie-frutas.jpg"
+        },
+        {
+          "nombre": "Batido de Chocolate",
+          "precio": 3000,
+          "imagen": "img/batido-chocolate.jpg"
+        }
+      ]
+    },
+    {
+      "categoria": "Postres",
+      "items": [
+        {
+          "nombre": "Helado de Chocolate",
+          "precio": 2500,
+          "imagen": "img/helado-chocolate.jpg"
+        },
+        {
+          "nombre": "Helado de Vainilla",
+          "precio": 2500,
+          "imagen": "img/helado-vainilla.jpg"
+        },
+        {
+          "nombre": "Tarta de Manzana",
+          "precio": 4000,
+          "imagen": "img/tarta-manzana.jpg"
+        },
+        {
+          "nombre": "Brownie con Helado",
+          "precio": 5000,
+          "imagen": "img/brownie-helado.jpg"
+        },
+        {
+          "nombre": "Cheesecake de Frutilla",
+          "precio": 4500,
+          "imagen": "img/cheesecake-frutilla.jpg"
+        },
+        {
+          "nombre": "Lemon Pie",
+          "precio": 4500,
+          "imagen": "img/lemon-pie.jpg"
+        },
+        {
+          "nombre": "Flan con Dulce de Leche",
+          "precio": 3000,
+          "imagen": "img/flan-dulce-leche.jpg"
+        }
+      ]
+    },
+    {
+      "categoria": "Cafetería",
+      "items": [
+        {
+          "nombre": "Café Expreso",
+          "precio": 1500,
+          "imagen": "img/cafe-expreso.jpg"
+        },
+        {
+          "nombre": "Café con Leche",
+          "precio": 1800,
+          "imagen": "img/cafe-leche.jpg"
+        },
+        {
+          "nombre": "Té de Hierbas",
+          "precio": 1200,
+          "imagen": "img/te-hierbas.jpg"
+        }
+      ]
+    }
+  ]
+  
