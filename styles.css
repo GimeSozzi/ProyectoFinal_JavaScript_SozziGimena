@@ -559,3 +559,16 @@ body.dark-mode .title-container h1 {
 body.dark-mode .title-container p {
   color: #FFDAB9;
 }
+
+footer {
+  margin-top: 20px;
+  padding: 10px 0;
+  background-color: #f9f9f9; 
+}
+
+footer p {
+  text-align: center; 
+  font-size: 14px;  
+  color: #777; 
+  margin: 0; 
+}
