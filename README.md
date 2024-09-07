@@ -65,3 +65,6 @@ El proyecto incluye los siguientes archivos clave:
 - **AJAX y Fetch API**: Para la carga de datos desde un archivo JSON local.
 - **SweetAlert2 y Toastify**: Librerías utilizadas para mejorar la comunicación con el usuario mediante notificaciones visuales.
 
+## Visualiza Morf.ar en GitHub Pages
+
+Puedes ver la aplicación en funcionamiento directamente en GitHub Pages: [Morf.ar - Proyecto Final](https://gimesozzi.github.io/ProyectoFinal_JavaScript_SozziGimena/)
