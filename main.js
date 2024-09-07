@@ -228,7 +228,7 @@ function mostrarProductos(categoriaSeleccionada = 'Todos', busqueda = '') {
                         <h3>${item.nombre}</h3>
                         <p>$${item.precio}</p>
                         <input type="number" min="1" value="1" class="cantidad-input">
-                        <button onclick="agregarAlCarrito('${item.nombre}', ${item.precio}, '${item.imagen}')">Agregar al Carrito</button>
+                        <button onclick="agregarAlCarrito('${item.nombre}', ${item.precio}, '${item.imagen}')"><i class="fas fa-cart-plus"></i> Agregar al Carrito</button>
                     `;
                     productosDiv.appendChild(productoDiv);
                 }

@@ -160,13 +160,39 @@ button:hover {
 }
 
 #cuponForm {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px; 
   margin-top: 15px;
+  padding: 10px;
+  border: 1px solid #ccc; 
+  border-radius: 12px; 
+  background-color: #f9f9f9;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
 }
 
 #cuponForm input {
-  width: calc(100% - 80px);
-  padding: 10px;
-  margin-right: 10px;
+  width: 100%;
+  padding: 10px; 
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  outline: none; 
+  box-sizing: border-box; 
+}
+
+#cuponForm button {
+  padding: 10px 15px;
+  border: none;
+  border-radius: 8px;
+  background-color: #ff4757; 
+  color: white;
+  cursor: pointer;
+  transition: background-color 0.3s ease; 
+}
+
+#cuponForm button:hover {
+  background-color: #e04a50; 
 }
 
 #categorias {
